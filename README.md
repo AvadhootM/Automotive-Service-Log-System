@@ -11,7 +11,9 @@ Abstract:
 Creating and maintaining a centralized database which would be used to store a huge amount of data across service providers and would store Customer data and the services they have purchased. The analysis of this data would help user with a consolidated view of service records and would help with inventory management.
 
 Entity Relationship Diagram
- 
+
+
+![image](https://user-images.githubusercontent.com/64949763/111036397-fd4af280-83ec-11eb-809e-a2a47e4437c3.png)
 
 
 Entities
