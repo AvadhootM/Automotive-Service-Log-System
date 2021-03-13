@@ -1,5 +1,6 @@
 # Automotive-Service-Log-System
-###Background: 
+
+Background: 
 The conservative method of tracking service history of a vehicle is a tedious process which not only consumes time but also other resources such as money and proper allocation of parts and labors. Managing multiple service records of multiple car combined with tracking inventory of required service parts is a difficult task. Automating service log management system will help you to track service records efficiently and forecast the number of service parts that are regularly used. The service centers can now serve its customers productively making this a win-win situation for both parties where they end up saving multiple resources.
 
 Purpose: Design and deploy a relational database system for automotive dealerships to store and retrieve data of vehicle, service history, service check-in details and corresponding customer details
@@ -9,8 +10,8 @@ Abstract:
 Creating and maintaining a centralized database which would be used to store a huge amount of data across service providers and would store Customer data and the services they have purchased. The analysis of this data would help user with a consolidated view of service records and would help with inventory management.
 
 Entity Relationship Diagram
+ ![image](https://user-images.githubusercontent.com/64949763/111034743-0e900100-83e5-11eb-87dc-c84f0ef7b32b.png)
  
-
 
 Entities {info about each entity}
 -	Vehicle:
